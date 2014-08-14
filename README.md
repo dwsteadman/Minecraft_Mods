@@ -8,4 +8,4 @@ NOTE
 
 The western chair mod is built to run on ModLoader.
 
-All the other run on Forge.
+All the others run on Forge.
